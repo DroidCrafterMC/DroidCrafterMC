@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DroidCrafterMC!
 - 👀 I’m interested in Minecraft Mods!
-- 🌱 I’m currently learning Minecraft Modding
+- 🌱 I’m currently learning Minecraft Modding.
 - 💞️ I’m looking to collaborate on nothing yet...
-- 📫 How to reach me [REDACTED]
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: [REDACTED].
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm a ginger.
 
 <!---
